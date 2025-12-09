@@ -1,0 +1,5 @@
+[
+    { "id": "S1", "name": "Station A", "lat": 36.8000, "lon": 10.1800 },
+    { "id": "S2", "name": "Station B", "lat": 36.8100, "lon": 10.1900 },
+    { "id": "S3", "name": "Station C", "lat": 36.8200, "lon": 10.2000 }
+]

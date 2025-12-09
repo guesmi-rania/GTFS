@@ -1,0 +1,4 @@
+From,To,Distance (km),Fare
+Station A,Station B,1.42,1.71
+Station A,Station C,2.85,2.42
+Station B,Station C,1.42,1.71

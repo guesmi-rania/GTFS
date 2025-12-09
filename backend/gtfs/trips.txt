@@ -1,0 +1,4 @@
+route_id,service_id,trip_id
+ROUTE_1,WEEKDAY,TRIP_1
+ROUTE_1,WEEKDAY,TRIP_2
+ROUTE_2,WEEKDAY,TRIP_3
